@@ -1,4 +1,4 @@
-# Twitter-Analysis-of-Apple-Music-and-Spotify
+# Twitter-Analysis-of-Apple-Music-and-Spotify (NLP)
 
  The research question is to analyse the tweets of AppleMusic and Spotify. How their
  tweets differ from each other, to see if they follow what’s trending and the techniques
