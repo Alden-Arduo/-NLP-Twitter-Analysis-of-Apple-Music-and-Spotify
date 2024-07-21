@@ -24,3 +24,9 @@ Summary:
  - Spotify keeps their tweets fairly neutral around 51%
  - Their tweets are not similar, only accounting to 0.25% cosine similarity, implying they don't have similar content and not following what's     trending
  - Their TF-IDF shows that they are tweeting their selling point the most, 'Dolby' and 'Spatial Audio' for Apple Music, and '#spotifyisland'       for Spotify
+
+A future direction for this project is to pull the number of likes, retweets and
+ comments per tweet. This is to determine which content or tweet generally gets more
+ interactions. This then can help get the average number of likes, comments and
+ retweets for each tweet. Very useful when comparing them to see which has more
+ interactions in general.
